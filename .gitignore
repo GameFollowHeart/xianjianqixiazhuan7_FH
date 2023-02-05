@@ -1,0 +1,15 @@
+__pycache__
+downloadvideo
+.DS_Store
+browsermod-proxy
+tmp
+.idea
+log
+*.log
+
+# client
+**/dist
+**/node_modules
+
+# CheatEngine + 易语言开发
+*.PTR.results.*

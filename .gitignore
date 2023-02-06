@@ -6,6 +6,7 @@ tmp
 .idea
 log
 *.log
+**/存档备份
 
 # client
 **/dist
